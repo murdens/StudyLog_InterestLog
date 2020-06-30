@@ -7,10 +7,10 @@
  - Basic firebase app
 
 # Java 
-- Java fundamentals : dip in and out df Udemy complete Java developer Tim Buchalka 
+- Java fundamentals : dip in and out of Udemy complete Java developer Tim Buchalka 
 - Java OOP completed (Udacity course completed - https://github.com/murdens/JavaProjects - command line projects)
-- Java app with SpringBoot - CMS shopping cart completed
-- Java microservices with spring boot and spring cloud (Google Cloud - certificate in repo) completed
+- Java app with SpringBoot - CMS shopping cart completed  https://github.com/murdens/ShoppingCart
+- Java microservices with spring boot and spring cloud Coursera course (Google Cloud - certificate in repo) completed
 
 # FrontEnd
 - CSS/SASS : currently using udemy Advanced CSS & SASS course
