@@ -10,6 +10,7 @@
 - Java fundamentals : dip in and out of Udemy complete Java developer Tim Buchalka 
 - Java OOP completed (Udacity course completed - https://github.com/murdens/JavaProjects - command line projects)
 - Java app with SpringBoot - CMS shopping cart completed  https://github.com/murdens/ShoppingCart
+- Java SpringMVC / H2 - SpringWeb5app simple app.
 - Java microservices with spring boot and spring cloud Coursera course (Google Cloud - certificate in repo) completed
 
 # FrontEnd
