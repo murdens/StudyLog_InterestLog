@@ -14,4 +14,8 @@
 - Java microservices with spring boot and spring cloud Coursera course (Google Cloud - certificate in repo) completed
 
 # FrontEnd
-- CSS/SASS : currently using udemy Advanced CSS & SASS course
+- CSS/SASS : currently using udemy Advanced CSS & SASS course - https://murdens.github.io/Sample_CSS_SCSS_LandingPage/
+
+# Python
+- AI programming with python Udacity nanodegree
+   - Project 1 : Pre-trained_image_classifier
